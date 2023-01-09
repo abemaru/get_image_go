@@ -1,1 +1,5 @@
-# get_image_go
+# get image go
+
+```terminal
+> go run main.go
+```
